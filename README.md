@@ -95,3 +95,11 @@ by Utilizing Pre-Experiment Data (Microsoft)](https://exp-platform.com/Documents
 * [Graph cluster randomization: network exposure to multiple universes (Facebook)](https://arxiv.org/abs/1305.6979)
 * [Machine Learning for Variance Reduction in Online Experiments](https://arxiv.org/pdf/2106.07263.pdf)
 
+# Tools and Companies
+* [Eppo](https://www.geteppo.com/)
+* [StatSig](https://www.statsig.com/)
+* [Split](https://www.split.io/)
+* [Optimizely](https://www.optimizely.com/)
+* [Amplitude](https://amplitude.com/)
+* [VWO](https://vwo.com/)
+* [LaunchDarkly](https://launchdarkly.com/features/experimentation/)
