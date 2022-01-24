@@ -52,7 +52,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 Visualizing Practical and Statistical Significance - Good overview of quantile functions and comparisons](https://netflixtechblog.com/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a)
 * [Data Compression for Large-Scale Streaming Experimentation (Netflix) - More on quantile functions and comparisons](https://netflixtechblog.com/data-compression-for-large-scale-streaming-experimentation-c20bfab8b9ce)
 * [The Power of Bayesian A/B Testing (Convoy)](https://medium.com/convoy-tech/the-power-of-bayesian-a-b-testing-f859d2219d5)
-* [Formulas for Bayesian A/B Testing] (https://www.evanmiller.org/bayesian-ab-testing.html)
+* [Formulas for Bayesian A/B Testing](https://www.evanmiller.org/bayesian-ab-testing.html)
 * [Is Bayesian A/B Testing Immune to Peeking? Not Exactly? (StackExchange)](http://varianceexplained.org/r/bayesian-ab-testing/)
 * [Easy Evaluation of Decision Rules in Bayesian A/B testing](https://www.chrisstucchio.com/blog/2014/bayesian_ab_decision_rule.html)
 * [Cracking Correlated Observations in A/B Tests with Mixed Model Effects (Convoy)](https://medium.com/convoy-tech/cracking-correlated-observations-in-a-b-tests-with-mixed-effect-models-80a63027444e)
