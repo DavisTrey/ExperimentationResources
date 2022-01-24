@@ -38,7 +38,10 @@ Visualizing Practical and Statistical Significance - Good overview of quantile f
 * [Data Compression for Large-Scale Streaming Experimentation (Netflix) - More on quantile functions and comparisons](https://netflixtechblog.com/data-compression-for-large-scale-streaming-experimentation-c20bfab8b9ce)
 
 # Other Resources and General Tips
+* Experimentation in a Ridesharing Marketplace (Lyft) - Part [1](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e#.djox1933t), [2](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2#.g9b34i3gm), and [3](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-f75a9c4fcf01)
 * [Airbnb Growth Principles for Effective Experimentation](https://www.reforge.com/brief/airbnb-growth-principles-for-effective-experimentation#ZZEOdWOo5fT-HrPq-IEY7Q)
+* [Good Experiment, Bad Experiment (Reforge)](https://www.reforge.com/blog/good-experiment-bad-experiment)
+* [You Cannot Be Data Driven Without Experimentation (Reforge)](https://www.reforge.com/blog/you-cannot-be-data-driven-without-experimentation)
 * [Reforge Experimentation Course](https://www.reforge.com/experimentation-testing)
 
 # Causal Modeling
