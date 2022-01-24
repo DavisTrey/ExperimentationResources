@@ -1,4 +1,3 @@
-# ExperimentationResources
 A list of blogs, videos, and other content that provides advice on building experimentation and A/B testing platforms
 
 * []( "")
@@ -19,4 +18,8 @@ A list of blogs, videos, and other content that provides advice on building expe
 * [Interleaving (Netflix)](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55 "Interleaving in online controlled experiments")
 * 
 
-# Experimentation Research Papers
+# Experimentation Research
+* [A Dirty Dozen: Twelve Common Metric Interpretation Pitfalls in
+Online Controlled Experiments ](
+https://exp-platform.com/Documents/2017-08%20KDDMetricInterpretationPitfalls.pdf)
+
