@@ -7,6 +7,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 * [How We Scaled Experimentation at Hulu](https://medium.com/disney-streaming/how-we-scaled-experimentation-at-hulu-82d62a4779be)
 * [Supporting Rapid Product Iteration with an Experimentation Analysis Platform](https://doordash.engineering/2020/09/09/experimentation-analysis-platform-mvp/)
 * [How we Reimagined A/B Testing at Squarespace](https://engineering.squarespace.com/blog/2021/how-we-reimagined-ab-testing-at-squarespace)
+* [Modern Experimentation Platforms (Podcast by Ex-Airbnb Data Scientist)](https://thedataexchange.media/modern-experimentation-platforms/)
 
 # Experimentation Culture 
 * [Democratizing Online Experiments (Booking)](https://www.mindtheproduct.com/democratising-online-controlled-experiments-at-booking-com-by-lukas-vermeer/ "Democratizing Online Experiments")
@@ -94,4 +95,3 @@ by Utilizing Pre-Experiment Data (Microsoft)](https://exp-platform.com/Documents
 * [Graph cluster randomization: network exposure to multiple universes (Facebook)](https://arxiv.org/abs/1305.6979)
 * [Machine Learning for Variance Reduction in Online Experiments](https://arxiv.org/pdf/2106.07263.pdf)
 
-# Tools and Products
