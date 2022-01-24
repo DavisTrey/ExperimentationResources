@@ -1,6 +1,6 @@
 A list of blogs, videos, and other content that provides advice on building experimentation and A/B testing platforms
 
-* []( "")
+
 
 
 # Experimentation Platform Overviews
@@ -15,11 +15,19 @@ A list of blogs, videos, and other content that provides advice on building expe
 * 
 
 # Advanced Statistical Methods
-* [Interleaving (Netflix)](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55 "Interleaving in online controlled experiments")
+* [Interleaving in Online Controlled Experiments (Netflix)](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55 "Interleaving in online controlled experiments")
+* [Peeking problem – the fatal mistake in A/B testing and experimentation](https://gopractice.io/blog/peeking-problem/)
 * 
 
 # Experimentation Research
 * [A Dirty Dozen: Twelve Common Metric Interpretation Pitfalls in
-Online Controlled Experiments ](
+Online Controlled Experiments (Microsoft)](
 https://exp-platform.com/Documents/2017-08%20KDDMetricInterpretationPitfalls.pdf)
+* [Novelty/Primacy Effect Detection in Randomized Online Controlled Experiments
+ (Microsoft)](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/AbstractDetails.cfm?abstractid=330383)
+* [Improving the Sensitivity of Online Controlled
+Experiments: Case Studies at Netflix](https://www.kdd.org/kdd2016/papers/files/adp0945-xieA.pdf)
 
+
+
+ 
