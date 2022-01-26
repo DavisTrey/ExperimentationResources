@@ -33,6 +33,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 
 # Multi Arm Bandits
 * [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
+* [There's More to Experimentation Than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876)
 * [Multi Arm Bandit Algorithms (VWO)](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 
 # Quasi Experiments
