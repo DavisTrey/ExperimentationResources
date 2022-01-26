@@ -13,6 +13,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 * [Democratizing Online Experiments (Booking)](https://www.mindtheproduct.com/democratising-online-controlled-experiments-at-booking-com-by-lukas-vermeer/ "Democratizing Online Experiments")
 * [Building a Culture of Experimentation (Harvard Business Review)](https://hbr.org/2020/03/building-a-culture-of-experimentation)
 * [A Culture of Learning (Netflix)](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
+* [Top Challenges from the first Practical Online Controlled Experiments Summit](https://exp-platform.com/Documents/2019-FirstPracticalOnlineControlledExperimentsSummit_SIGKDDExplorations.pdf)
 
 # Peeking and Sequential Testing
 * [How Etsy Handles Peeking in A/B Testing](https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/)
