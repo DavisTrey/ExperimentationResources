@@ -1,4 +1,4 @@
-A list of blogs, videos, and other content that provides advice on building experimentation and A/B testing platforms
+A list of blogs, videos, and other content that provides advice on building experimentation platform. Most of the content comes from leading companies like Netflix, Airbnb, Microsoft, Facebook, Google, Booking, Stitch Fix, Convoy, and similar who have built some of the most advanced experimentation platforms in the world. 
 
 # Experimentation Platforms
 * [Building our Centralized Experimental Platform (Stitch Fix)](https://multithreaded.stitchfix.com/blog/2019/07/30/building-centralized-experimental-platform/)
