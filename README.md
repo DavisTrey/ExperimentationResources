@@ -12,6 +12,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 # Experimentation Culture 
 * [Democratizing Online Experiments (Booking)](https://www.mindtheproduct.com/democratising-online-controlled-experiments-at-booking-com-by-lukas-vermeer/ "Democratizing Online Experiments")
 * [Building a Culture of Experimentation (Harvard Business Review)](https://hbr.org/2020/03/building-a-culture-of-experimentation)
+* [It takes a Flywheel to Fly: Kickstarting and Growing the A/B testing Momentum at Scale](https://ieeexplore.ieee.org/document/9582567)
 * [A Culture of Learning (Netflix)](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
 * [Top Challenges from the first Practical Online Controlled Experiments Summit](https://exp-platform.com/Documents/2019-FirstPracticalOnlineControlledExperimentsSummit_SIGKDDExplorations.pdf)
 
