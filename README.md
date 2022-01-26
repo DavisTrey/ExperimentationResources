@@ -99,6 +99,7 @@ by Utilizing Pre-Experiment Data (Microsoft)](https://exp-platform.com/Documents
 # Tools and Companies
 * [Eppo](https://www.geteppo.com/)
 * [StatSig](https://www.statsig.com/)
+* [A/B Smartly](https://absmartly.com/)
 * [Split](https://www.split.io/)
 * [Optimizely](https://www.optimizely.com/)
 * [Amplitude](https://amplitude.com/)
