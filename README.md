@@ -76,6 +76,7 @@ Visualizing Practical and Statistical Significance - Good overview of quantile f
 * [Reforge Experimentation Course](https://www.reforge.com/experimentation-testing)
 * [Experimentation is a Major Focus of Data Science Across Netflix](https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985)
 * [Experimentation Works: The Surprising Power of Business Experiments (Book)](https://www.amazon.com/dp/163369710X?psc=1&smid=ATVPDKIKX0DER&ref_=chk_typ_imgToDp)
+* [Leaky Abstrctions in Online Experimentation Platforms](https://booking.ai/leaky-abstractions-in-online-experimentation-platforms-ae4cf05013f9)
 
 # Causal Modeling
 * [Inferring the effect of an event using CausalImpact by Kay Brodersen (Google)](https://www.youtube.com/watch?v=GTgZfCltMm8)
