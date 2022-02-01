@@ -15,6 +15,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 * [It takes a Flywheel to Fly: Kickstarting and Growing the A/B testing Momentum at Scale (Microsoft)](https://ieeexplore.ieee.org/document/9582567)
 * [A Culture of Learning (Netflix)](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
 * [Top Challenges from the first Practical Online Controlled Experiments Summit](https://exp-platform.com/Documents/2019-FirstPracticalOnlineControlledExperimentsSummit_SIGKDDExplorations.pdf)
+* [Building a cuture of experimentation (VistaPrint)](https://vista.io/blog/building-a-culture-of-experimentation)
 
 # Peeking and Sequential Testing
 * [How Etsy Handles Peeking in A/B Testing](https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/)
