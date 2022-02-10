@@ -8,6 +8,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 * [Supporting Rapid Product Iteration with an Experimentation Analysis Platform](https://doordash.engineering/2020/09/09/experimentation-analysis-platform-mvp/)
 * [How we Reimagined A/B Testing at Squarespace](https://engineering.squarespace.com/blog/2021/how-we-reimagined-ab-testing-at-squarespace)
 * [Modern Experimentation Platforms (Podcast by Ex-Airbnb Data Scientist)](https://thedataexchange.media/modern-experimentation-platforms/)
+* [A/B Testing @ MeLi](https://medium.com/mercadolibre-tech/a-b-testing-meli-3a5ad2b4594d)
 
 # Experimentation Culture 
 * [Democratizing Online Experiments (Booking)](https://www.mindtheproduct.com/democratising-online-controlled-experiments-at-booking-com-by-lukas-vermeer/ "Democratizing Online Experiments")
@@ -105,6 +106,7 @@ by Utilizing Pre-Experiment Data (Microsoft)](https://exp-platform.com/Documents
 * [Eppo](https://www.geteppo.com/)
 * [StatSig](https://www.statsig.com/)
 * [A/B Smartly](https://absmartly.com/)
+* [AB Tasty](https://www.abtasty.com/)
 * [Split](https://www.split.io/)
 * [Optimizely](https://www.optimizely.com/)
 * [Amplitude](https://amplitude.com/)
@@ -112,3 +114,6 @@ by Utilizing Pre-Experiment Data (Microsoft)](https://exp-platform.com/Documents
 * [LaunchDarkly](https://launchdarkly.com/features/experimentation/)
 * [JetLab](https://tryjetlab.com/)
 * [GrowthBook](https://www.growthbook.io/)
+* [Speero by CXL](https://speero.com/)
+* [Conversion.com](https://conversion.com/)
+* [KonversionsKraft](https://www.konversionskraft.de/)
