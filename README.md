@@ -1,4 +1,4 @@
-A list of blogs, videos, and other content that provides advice on building experimentation platform. Most of the content comes from leading companies like Netflix, Airbnb, Microsoft, Facebook, Google, Booking, Stitch Fix, Convoy, and similar who have built some of the most advanced experimentation platforms in the world. 
+A list of blogs, videos, and other content that provides advice on building experimentation platform. Most of the content comes from leading companies like Netflix, Airbnb, Microsoft, Facebook, Google, Booking, Stitch Fix, Convoy, and similar who have built some of the most advanced experimentation platforms in the world.
 
 # Experimentation Platforms
 * [Building our Centralized Experimental Platform (Stitch Fix)](https://multithreaded.stitchfix.com/blog/2019/07/30/building-centralized-experimental-platform/)
@@ -9,13 +9,14 @@ A list of blogs, videos, and other content that provides advice on building expe
 * [How we Reimagined A/B Testing at Squarespace](https://engineering.squarespace.com/blog/2021/how-we-reimagined-ab-testing-at-squarespace)
 * [Modern Experimentation Platforms (Podcast by Ex-Airbnb Data Scientist)](https://thedataexchange.media/modern-experimentation-platforms/)
 
-# Experimentation Culture 
+# Experimentation Culture
 * [Democratizing Online Experiments (Booking)](https://www.mindtheproduct.com/democratising-online-controlled-experiments-at-booking-com-by-lukas-vermeer/ "Democratizing Online Experiments")
 * [Building a Culture of Experimentation (Harvard Business Review)](https://hbr.org/2020/03/building-a-culture-of-experimentation)
 * [It takes a Flywheel to Fly: Kickstarting and Growing the A/B testing Momentum at Scale (Microsoft)](https://ieeexplore.ieee.org/document/9582567)
 * [A Culture of Learning (Netflix)](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
 * [Top Challenges from the first Practical Online Controlled Experiments Summit](https://exp-platform.com/Documents/2019-FirstPracticalOnlineControlledExperimentsSummit_SIGKDDExplorations.pdf)
 * [Building a cuture of experimentation (VistaPrint)](https://vista.io/blog/building-a-culture-of-experimentation)
+* [The experimentation culture at HelloFresh](https://engineering.hellofresh.com/the-experimentation-culture-at-hellofresh-353628deee57)
 
 # Peeking and Sequential Testing
 * [How Etsy Handles Peeking in A/B Testing](https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/)
@@ -49,7 +50,7 @@ A list of blogs, videos, and other content that provides advice on building expe
 * [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
 * [Analyzing Switchback Experiments by Cluster Robust Standard Error to Prevent False Positive Results (Doordash)](https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/)
 * [Experiment Rigor for Switchback Experiment Analysis (Doordash)](https://doordash.engineering/2019/02/20/experiment-rigor-for-switchback-experiment-analysis/)
-* Experimentation in a Ridesharing Marketplace (Lyft) - Part [1](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e#.djox1933t), [2](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2#.g9b34i3gm), and [3](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-f75a9c4fcf01). Covers a range of topics but heavily focused on assignment and measurement challenges in network-effect businesses. 
+* Experimentation in a Ridesharing Marketplace (Lyft) - Part [1](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e#.djox1933t), [2](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2#.g9b34i3gm), and [3](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-f75a9c4fcf01). Covers a range of topics but heavily focused on assignment and measurement challenges in network-effect businesses.
 * [Why it matters where you randomize users in A/B Experiments](https://medium.com/@foundinblank/why-it-matters-where-you-randomize-users-in-a-b-experiments-5570c7585944)
 
 # Statistical Tests and Measures
